@@ -1,2 +1,3 @@
 # ecrin-portfolio
-Portfolio of the ECRIN project
+
+Use of playwright et storybook
